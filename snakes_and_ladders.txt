@@ -1,0 +1,23 @@
+Snakes and Ladders Homework
+
+
+Questions: 
+
+- What is different from the way you tried to solve the problem?
+
+  -
+
+- Are there any parts you don't understand?
+
+There are lots I don't fully understand at the moment. I plan to go over it more throughly on Thursday night. 
+
+
+- Testing - why has the dice class not been tested?
+
+I think the dice class has not been tested because how do you test something's returning a random number? It won't give an absolute number. 
+
+
+- Why is all of the 'puts'-ing in one viewer class?
+
+The viewer class is where all the user interaction is handled. It’s tidier to keep all of these interactions in one class. 
+
